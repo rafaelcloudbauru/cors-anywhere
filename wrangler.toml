@@ -1,9 +1,0 @@
-name = "cors-anywhere"
-type = "javascript"
-
-[build]
-command = "npm install"
-
-[env.production]
-name = "cors-anywhere"
-main = "index.js"
